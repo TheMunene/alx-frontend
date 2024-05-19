@@ -1,1 +1,1 @@
-https://github.com/TheMunene/alx-frontend/README.md
+https://github.com/TheMunene/alx-frontend/blob/master/README.md
